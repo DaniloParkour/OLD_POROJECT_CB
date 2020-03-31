@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: fbd46698f73a73844b2708e434554af3
+timeCreated: 1519942104
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mapaCami_0
+    21300002: mapaCami_1
+    21300004: mapaCami_2
+    21300006: mapaCami_3
+    21300008: mapaCami_4
+    21300010: mapaCami_5
+    21300012: mapaCami_6
+    21300014: mapaCami_7
+    21300016: mapaCami_8
+    21300018: mapaCami_9
+    21300020: mapaCami_10
+    21300022: mapaCami_11
+    21300024: mapaCami_12
+    21300026: mapaCami_13
+    21300028: mapaCami_14
+    21300030: mapaCami_15
+    21300032: mapaCami_16
+    21300034: mapaCami_17
+    21300036: mapaCami_18
+    21300038: mapaCami_19
+    21300040: mapaCami_20
+    21300042: mapaCami_21
+    21300044: mapaCami_22
+    21300046: mapaCami_23
+    21300048: mapaCami_24
+    21300050: mapaCami_25
+    21300052: mapaCami_26
+    21300054: mapaCami_27
+    21300056: mapaCami_28
+    21300058: mapaCami_29
+    21300060: mapaCami_30
+    21300062: mapaCami_31
+    21300064: mapaCami_32
+    21300066: mapaCami_33
+    21300068: mapaCami_34
+    21300070: mapaCami_35
+    21300072: mapaCami_36
+    21300074: mapaCami_37
+    21300076: mapaCami_38
+    21300078: mapaCami_39
+    21300080: mapaCami_40
+    21300082: mapaCami_41
+    21300084: mapaCami_42
+    21300086: mapaCami_43
+    21300088: mapaCami_44
+    21300090: mapaCami_45
+    21300092: mapaCami_46
+    21300094: mapaCami_47
+    21300096: mapaCami_48
+    21300098: mapaCami_49
+    21300100: mapaCami_50
+    21300102: mapaCami_51
+    21300104: mapaCami_52
+    21300106: mapaCami_53
+    21300108: mapaCami_54
+    21300110: mapaCami_55
+    21300112: mapaCami_56
+    21300114: mapaCami_57
+    21300116: mapaCami_58
+    21300118: mapaCami_59
+    21300120: mapaCami_60
+    21300122: mapaCami_61
+    21300124: mapaCami_62
+    21300126: mapaCami_63
+    21300128: mapaCami_64
+    21300130: mapaCami_65
+    21300132: mapaCami_66
+    21300134: mapaCami_67
+    21300136: mapaCami_68
+    21300138: mapaCami_69
+    21300140: mapaCami_70
+    21300142: mapaCami_71
+    21300144: mapaCami_72
+    21300146: mapaCami_73
+    21300148: mapaCami_74
+    21300150: mapaCami_75
+    21300152: mapaCami_76
+    21300154: mapaCami_77
+    21300156: mapaCami_78
+    21300158: mapaCami_79
+    21300160: mapaCami_80
+    21300162: mapaCami_81
+    21300164: mapaCami_82
+    21300166: mapaCami_83
+    21300168: mapaCami_84
+    21300170: mapaCami_85
+    21300172: mapaCami_86
+    21300174: mapaCami_87
+    21300176: mapaCami_88
+    21300178: mapaCami_89
+    21300180: mapaCami_90
+    21300182: mapaCami_91
+    21300184: mapaCami_92
+    21300186: mapaCami_93
+    21300188: mapaCami_94
+    21300190: mapaCami_95
+    21300192: mapaCami_96
+    21300194: mapaCami_97
+    21300196: mapaCami_98
+    21300198: mapaCami_99
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mapaCami_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2720
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_1
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2720
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_2
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2720
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_3
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 2720
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_5
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2040
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_6
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2040
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_7
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 2040
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_9
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1360
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_10
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1360
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_11
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1360
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_13
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 680
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_14
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 680
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_15
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 680
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_17
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_18
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mapaCami_19
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 0
+        width: 650
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

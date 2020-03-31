@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: aa9ea7d1031b4af4f8e53fdad09be867
+timeCreated: 1519942394
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CamiBubbleObjects_0
+    21300002: CamiBubbleObjects_1
+    21300004: CamiBubbleObjects_2
+    21300006: CamiBubbleObjects_3
+    21300008: CamiBubbleObjects_4
+    21300010: CamiBubbleObjects_5
+    21300012: CamiBubbleObjects_8
+    21300014: CamiBubbleObjects_9
+    21300016: CamiBubbleObjects_10
+    21300018: CamiBubbleObjects_13
+    21300020: CamiBubbleObjects_14
+    21300022: CamiBubbleObjects_15
+    21300024: CamiBubbleObjects_16
+    21300026: CamiBubbleObjects_17
+    21300028: CamiBubbleObjects_18
+    21300030: CamiBubbleObjects_19
+    21300032: CamiBubbleObjects_20
+    21300034: CamiBubbleObjects_21
+    21300036: CamiBubbleObjects_22
+    21300038: CamiBubbleObjects_23
+    21300040: CamiBubbleObjects_24
+    21300042: CamiBubbleObjects_25
+    21300044: CamiBubbleObjects_26
+    21300046: CamiBubbleObjects_27
+    21300048: CamiBubbleObjects_28
+    21300050: CamiBubbleObjects_29
+    21300052: CamiBubbleObjects_30
+    21300054: CamiBubbleObjects_31
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CamiBubbleObjects_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 377
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 414
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 12, y: 14, z: 14, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 434
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 407
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_4
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 390
+        width: 93
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 410
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 324
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 262
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 336
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 320
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 213
+        width: 175
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 241
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_16
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 254
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 196
+        width: 33
+        height: 37
+      alignment: 9
+      pivot: {x: 0.46182632, y: 0.6078153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 191
+        width: 41
+        height: 41
+      alignment: 9
+      pivot: {x: 0.510242, y: 0.6689889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 184
+        width: 47
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5268029, y: 0.65269524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_20
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 182
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 180
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 190
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_23
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 192
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 106
+        width: 44
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5429456, y: 0.7650259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 101
+        width: 39
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5592186, y: 0.78868914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 91
+        width: 33
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5381738, y: 0.78203005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 110
+        width: 202
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 33
+        height: 66
+      alignment: 9
+      pivot: {x: 0.43637726, y: 0.78312206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 23
+        width: 33
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5127249, y: 0.7597757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_30
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 24
+        width: 36
+        height: 60
+      alignment: 9
+      pivot: {x: 0.52332854, y: 0.7414488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CamiBubbleObjects_31
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 66
+        width: 202
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
